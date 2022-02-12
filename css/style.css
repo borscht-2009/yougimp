@@ -1,0 +1,21 @@
+.roby {
+    width:33%; float:left;
+    color: #f0f;
+    text-align:center;
+    font-size:24px;
+}
+.robyivanov {
+    width:900px;
+    margin:0 auto;
+}
+.robbyivanov {
+    text-align:center;
+    font-size:46px;
+    margin-top:160px;
+}
+.robbyivanovsoft {
+    font-size:20px;
+    margin-top:50px;
+    border-bottom: 1px solid #fff; 
+    padding-bottom:40px;
+}
